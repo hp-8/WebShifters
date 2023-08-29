@@ -24,6 +24,8 @@ The "Webshifters" website is a dynamic platform designed for a digital service p
 I invite you to explore and witness the seamless blend of design and functionality. The website represents my dedication to creating digital solutions that leave a lasting impact.
 
 ![image](https://github.com/hp-8/WebShifters/assets/106737575/2923762f-ca30-4da4-b698-ba80a5014c39)
+<img width="1705" alt="image" src="https://github.com/hp-8/WebShifters/assets/106737575/18dc6632-3521-4ff7-9462-89170e6d1c10">
+
 
 ## Connect with Me
 
